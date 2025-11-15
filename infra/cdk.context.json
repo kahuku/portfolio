@@ -1,0 +1,9 @@
+{
+  "acknowledged-issue-numbers": [
+    34892
+  ],
+  "hosted-zone:account=100315353272:domainName=kahuku.dev:region=us-east-1": {
+    "Id": "/hostedzone/Z0381879OJJK45CAF49U",
+    "Name": "kahuku.dev."
+  }
+}

@@ -1,0 +1,6 @@
+# Ignore Python / Node artifacts from subfolders
+__pycache__/
+*.pyc
+
+# OS junk
+.DS_Store
